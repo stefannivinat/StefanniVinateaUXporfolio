@@ -38,7 +38,7 @@ header{
     color:rgb(241, 241, 241);
     padding: 1em 1rem;
     width: 100%;
-    position: fixed;
+   position: relative;
     height: 80px;
     display: flex;
     align-items: center;
@@ -639,7 +639,7 @@ p{
         justify-content: center;
         align-items: center;
         padding: 100px;
-        padding-top: 15rem;
+        padding-top: 10rem;
        
     }
 
