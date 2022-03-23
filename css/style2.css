@@ -752,6 +752,7 @@ p{
         padding-top: 7rem;
         padding-bottom: 1rem;
         justify-content: space-around;
+        align-self: start;
        
     }
 
@@ -764,7 +765,7 @@ p{
     .challenge{
         display: flex;
         flex-direction: row;
-        align-items: center;
+        align-items:flex-start;
         padding-bottom: 3rem;
         padding-top: 1rem;
         background-color: transparent;
