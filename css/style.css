@@ -254,7 +254,8 @@ main .text h4{
     font-weight:lighter;
     color: #04CFCF;
     font-weight: lighter;
-    text-align:left;
+    text-align:right;
+    margin-left: 32px;
     padding-right: 24px;
     padding-top: 24px;
     
