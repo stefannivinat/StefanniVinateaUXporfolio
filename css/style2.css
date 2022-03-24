@@ -583,9 +583,9 @@ footer .footer{
     padding-bottom: 2rem;
     padding-right: 1rem;
     display: flex;
-    align-content: center;
+    align-content: right;
     justify-content: flex-end;   
-    align-items: center;
+    align-items: right;
     width: 100%;
 
 
