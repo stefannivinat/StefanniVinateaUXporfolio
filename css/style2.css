@@ -219,7 +219,7 @@ h4{
 }
 
 p{
-    color: #d3d3d3;
+    color: #bdb8b8;
 }
 
 .skills-container{
@@ -450,8 +450,12 @@ p{
 .sec-container h3{
     font-family: 'Poppins';
     font-size: 16px;
-    color: #d3d3d3;
+    color: #FAFAFA;
     padding-top: 16px;
+}
+
+.sec-container P{
+    color: #FAFAFA;
 }
 
 
@@ -801,27 +805,29 @@ footer .footer{
         flex-direction: column;
         background-color: #262626;
         align-items: center;
-        justify-content: center;
+        justify-content:flex-start;
         width: 100%;
-       
+       text-align: left;
     }
 
     .creative{
         display: flex;
-        flex-direction: row;
-        font-size: 3rem;
-        padding-top: 7rem;
-        padding-bottom: 1rem;
-        justify-content: space-around;
-        align-items: flex-start;
-        max-width: 1400px;
+        flex-direction: column;
+        font-size: 2rem;
+        padding-top: 4rem;
+        padding-bottom: 2rem;
+        justify-content:flex-start;
+        align-items: center;
+        text-align: left;
+        max-width: 100%
+    
         
        
     }
 
     .creative h2{
         color: #FAFAFA;
-        margin: 80px;
+        margin: 40px;
     }
 
 

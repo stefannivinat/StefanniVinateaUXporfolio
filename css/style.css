@@ -253,7 +253,7 @@ main .text h4{
     font-family:'Poppins', sans-serif;
     font-size: 1em;
     font-weight:lighter;
-    color: #FAFAFA;
+    color: #bdb8b8;
     font-weight: lighter;
     text-align:left;
     margin-left: 32px;
@@ -378,13 +378,14 @@ main .text button:hover{
     font-weight:500;
 }
 .layout h4{
-    color: #d3d3d3;
+    color: #bdb8b8;
 }
 
 .layout h3{
     color:#d3d3d3;
     font-weight: 600;
     padding-top: 40px;
+   
 }
 
 
@@ -743,7 +744,7 @@ main .text button:hover{
 .sec-container h3{
     font-family: 'Poppins';
     font-size: 16px;
-    color: #d3d3d3;
+    color: #FAFAFA;
     padding-top: 16px;
 }
 
