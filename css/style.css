@@ -366,6 +366,7 @@ main .text button:hover{
     border-radius: 20px;
     color:#e1e9e9 ;
     padding-bottom: 16px;
+    overflow: hidden;
 }
 
 .layout h2{
